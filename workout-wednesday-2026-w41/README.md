@@ -7,8 +7,8 @@ Workout Wednesday 2026 Week 41 | Power BI
 เป้าหมายคือสร้าง Stripe Chart (หรือ "Warming Stripes") โดยใช้แค่ visual มาตรฐานของ Power BI ไม่ต้องพึ่ง custom visual
 
 ### 📂 ข้อมูล
-อุณหภูมิเฉลี่ยโลกปี 1880–2025 เทียบกับค่าเฉลี่ยปี 1951–1980 (Temperature Anomaly ตั้งแต่ -0.49 ถึง 1.29 °C)
-แหล่งที่มา :
+อุณหภูมิเฉลี่ยโลกปี 1880–2025 เทียบกับค่าเฉลี่ยปี 1951–1980 (Temperature Anomaly ตั้งแต่ -0.49 ถึง 1.29 °C) 
+แหล่งที่มา : https://www.workout-wednesday.com/2026-week-41-power-bi-stripe-chart-using-native-column-chart/
 
 ### 🛠️ วิธีทำ
 1. ใช้ Clustered Column Chart โดยใส่ Year ที่แกน X
