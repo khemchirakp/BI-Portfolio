@@ -8,9 +8,9 @@ Workout Wednesday 2026 Week 41 | Power BI
 
 ### 📂 ข้อมูล
 อุณหภูมิเฉลี่ยโลกปี 1880–2025 เทียบกับค่าเฉลี่ยปี 1951–1980 (Temperature Anomaly ตั้งแต่ -0.49 ถึง 1.29 °C) 
-แหล่งที่มา : https://www.workout-wednesday.com/2026-week-41-power-bi-stripe-chart-using-native-column-chart/
+Dataset: https://www.workout-wednesday.com/2026-week-41-power-bi-stripe-chart-using-native-column-chart/
 
-### 🛠️ วิธีทำ
+### 🛠️ ขั้นตอนการทำงาน
 1. ใช้ Clustered Column Chart โดยใส่ Year ที่แกน X
 2. สร้าง measure Stripe Height ให้ทุกปีมีความสูงเท่ากัน → แท่งทุกแท่งกลายเป็น "แถบ"
 3. ลด gap ระหว่างแท่งเป็น 0% และซ่อนแกน Y
